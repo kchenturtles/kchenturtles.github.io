@@ -6,14 +6,10 @@ aliases = ["about-us","about-hugo","contact"]
   name = "Hugo Authors"
 +++
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+Hello! My name is Kendree. 
 
-It makes use of a variety of open source projects including:
+I'm a student at Boston University Academy, part-time software developer, and co-president of gbSTEM, a nonprofit STEM education organization. I enjoy web development, especially UI/UX and frontend, and I'm also involved in a lot of competitive robotics! 
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+An interest of mine is using technology to address social and educational needs. Particularly, I am focused on promoting inclusion and diversity in STEM education.  
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Check out some of my work [here!](/posts) 

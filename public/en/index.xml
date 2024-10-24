@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kendree Chen</title>
+    <link>http://localhost:1313/en/</link>
+    <description>Recent content on Kendree Chen</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 23 Jul 2024 23:48:29 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Poseidon-Bot</title>
+      <link>http://localhost:1313/en/posts/poseidon-bot/</link>
+      <pubDate>Tue, 23 Jul 2024 23:48:29 -0400</pubDate>
+      <guid>http://localhost:1313/en/posts/poseidon-bot/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Poseidon Bot Thumbnail&#34; src=&#34;https://media.canva.com/v2/files/uri:ifs%3A%2F%2FV%2Fw7IpezDBDC_YNsLAeuqcc-AGFUbhF8wJ3yFfFJjyOVg.jpg?csig=AAAAAAAAAAAAAAAAAAAAANcZdhjS6_0cSw70uPaIBH6nENs3HyjTNlgddFMG-mML&amp;exp=1729752600&amp;signer=video-rpc&amp;token=AAIAAVYAL3c3SXBlekRCRENfWU5zTEFldXFjYy1BR0ZVYmhGOHdKM3lGZkZKanlPVmcuanBnAAAAAAGSvUoNwIkd8psvKDnlrYkXUYS4NMeEuVRgJcxymybspp99MPpO&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Greater Boston STEM Program Portal</title>
+      <link>http://localhost:1313/en/posts/gbstem-portal/</link>
+      <pubDate>Tue, 23 Jan 2024 23:48:29 -0400</pubDate>
+      <guid>http://localhost:1313/en/posts/gbstem-portal/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;gbSTEM Portal Thumbnail&#34; src=&#34;http://localhost:1313/images/gbstem-portal.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Greater Boston STEM Program Website</title>
+      <link>http://localhost:1313/en/posts/gbstem-website/</link>
+      <pubDate>Sat, 23 Dec 2023 23:48:29 -0400</pubDate>
+      <guid>http://localhost:1313/en/posts/gbstem-website/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;gbSTEM Website Thumbnail&#34; src=&#34;http://localhost:1313/images/gbstem-website.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Wild Thistle Productions Website</title>
+      <link>http://localhost:1313/en/posts/thistle-productions/</link>
+      <pubDate>Sat, 23 Dec 2023 23:48:29 -0400</pubDate>
+      <guid>http://localhost:1313/en/posts/thistle-productions/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;The Wild Thistle Productions Thumbnail&#34; src=&#34;http://localhost:1313/images/thistle-1.png&#34;&gt;&#xA;&lt;img alt=&#34;The Wild Thistle Productions Thumbnail&#34; src=&#34;http://localhost:1313/images/thistle-2.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Finding Vulnerabilities in Mobile APIs</title>
+      <link>http://localhost:1313/en/posts/mobile-api-vulnerabilities/</link>
+      <pubDate>Mon, 23 Oct 2023 23:48:29 -0400</pubDate>
+      <guid>http://localhost:1313/en/posts/mobile-api-vulnerabilities/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;ICSS Thumbnail&#34; src=&#34;http://localhost:1313/images/icss.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lobstah Bots Robotics Team Website</title>
+      <link>http://localhost:1313/en/posts/lobstahbots/</link>
+      <pubDate>Fri, 23 Jun 2023 23:48:29 -0400</pubDate>
+      <guid>http://localhost:1313/en/posts/lobstahbots/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Lobstahbots Website Thumbnail&#34; src=&#34;http://localhost:1313/images/lobstahbots.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Passionfruit Kitchen Website</title>
+      <link>http://localhost:1313/en/posts/passionfruit-kitchen/</link>
+      <pubDate>Thu, 23 Jun 2022 23:48:29 -0400</pubDate>
+      <guid>http://localhost:1313/en/posts/passionfruit-kitchen/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Passionfruit Kitchen Thumbnail&#34; src=&#34;http://localhost:1313/images/passionfruit.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/en/about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/about/</guid>
+      <description>&lt;p&gt;Hello! My name is Kendree.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m a student at Boston University Academy, part-time software developer, and co-president of gbSTEM, a nonprofit STEM education organization. I enjoy web development, especially UI/UX and frontend, and I&amp;rsquo;m also involved in a lot of competitive robotics!&lt;/p&gt;&#xA;&lt;p&gt;An interest of mine is using technology to address social and educational needs. Particularly, I am focused on promoting inclusion and diversity in STEM education.&lt;/p&gt;&#xA;&lt;p&gt;Check out some of my work &lt;a href=&#34;http://localhost:1313/en/posts/&#34;&gt;here!&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,90 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on Kendree Chen</title>
+		<link>http://localhost:1313/en/posts/</link>
+		<description>Recent content in Posts on Kendree Chen</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en</language>
+		<lastBuildDate>Tue, 23 Jul 2024 23:48:29 -0400</lastBuildDate>
+		<atom:link href="http://localhost:1313/en/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Poseidon-Bot</title>
+			<link>http://localhost:1313/en/posts/poseidon-bot/</link>
+			<pubDate>Tue, 23 Jul 2024 23:48:29 -0400</pubDate>
+			
+			<guid>http://localhost:1313/en/posts/poseidon-bot/</guid>
+			<description><![CDATA[Poseidon-Bot is an AI chatbot that uses retrieval augmented generation (RAG) architecture to allow the model to specialize in documents uploaded by the user. This was a project I worked on as part of a summer internship with Boston University's SAIL Lab during the summer of 2024. I created the backend and RAG architecture and some of the frontend functionality.]]></description>
+			<content type="html"><![CDATA[<p><img alt="Poseidon Bot Thumbnail" src="https://media.canva.com/v2/files/uri:ifs%3A%2F%2FV%2Fw7IpezDBDC_YNsLAeuqcc-AGFUbhF8wJ3yFfFJjyOVg.jpg?csig=AAAAAAAAAAAAAAAAAAAAANcZdhjS6_0cSw70uPaIBH6nENs3HyjTNlgddFMG-mML&exp=1729752600&signer=video-rpc&token=AAIAAVYAL3c3SXBlekRCRENfWU5zTEFldXFjYy1BR0ZVYmhGOHdKM3lGZkZKanlPVmcuanBnAAAAAAGSvUoNwIkd8psvKDnlrYkXUYS4NMeEuVRgJcxymybspp99MPpO"></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Greater Boston STEM Program Portal</title>
+			<link>http://localhost:1313/en/posts/gbstem-portal/</link>
+			<pubDate>Tue, 23 Jan 2024 23:48:29 -0400</pubDate>
+			
+			<guid>http://localhost:1313/en/posts/gbstem-portal/</guid>
+			<description><![CDATA[The Greater Boston STEM Program is a non-profit organization that provides free online and in person classes for underserved students in STEM. I am the maintainer and developer of the Greater Boston STEM Program's student and admin portal, which hosts gbSTEM classes, tracks attendance, handles interviewing and class creation, and more.]]></description>
+			<content type="html"><![CDATA[<p><img alt="gbSTEM Portal Thumbnail" src="/images/gbstem-portal.png"></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Greater Boston STEM Program Website</title>
+			<link>http://localhost:1313/en/posts/gbstem-website/</link>
+			<pubDate>Sat, 23 Dec 2023 23:48:29 -0400</pubDate>
+			
+			<guid>http://localhost:1313/en/posts/gbstem-website/</guid>
+			<description><![CDATA[gbSTEM is a 100% volunteer-driven 501(c)(3) not-for-profit organization that provides free STEM enrichment courses to underrepresented students in STEM. Since its inception in 2020, gbSTEM has reached over 2000 students and 500 volunteer instructors. I am president and software developer at gbSTEM and I am the maintainer and designer of the website.]]></description>
+			<content type="html"><![CDATA[<p><img alt="gbSTEM Website Thumbnail" src="/images/gbstem-website.png"></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>The Wild Thistle Productions Website</title>
+			<link>http://localhost:1313/en/posts/thistle-productions/</link>
+			<pubDate>Sat, 23 Dec 2023 23:48:29 -0400</pubDate>
+			
+			<guid>http://localhost:1313/en/posts/thistle-productions/</guid>
+			<description><![CDATA[The Wild Thistle Productions podcast website is a commissioned website that uses the Spotify API to automatically update content. The website lists all episodes and shows from the podcast in a modular format. I designed and coded the website from scratch.]]></description>
+			<content type="html"><![CDATA[<p><img alt="The Wild Thistle Productions Thumbnail" src="/images/thistle-1.png">
+<img alt="The Wild Thistle Productions Thumbnail" src="/images/thistle-2.png"></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Finding Vulnerabilities in Mobile APIs</title>
+			<link>http://localhost:1313/en/posts/mobile-api-vulnerabilities/</link>
+			<pubDate>Mon, 23 Oct 2023 23:48:29 -0400</pubDate>
+			
+			<guid>http://localhost:1313/en/posts/mobile-api-vulnerabilities/</guid>
+			<description><![CDATA[I led the development of a script for programmatically testing common broken access control vulnerabilities in mobile APIs. I led a team in writing up the findings and published a paper on ArXiv.]]></description>
+			<content type="html"><![CDATA[<p><img alt="ICSS Thumbnail" src="/images/icss.png"></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Lobstah Bots Robotics Team Website</title>
+			<link>http://localhost:1313/en/posts/lobstahbots/</link>
+			<pubDate>Fri, 23 Jun 2023 23:48:29 -0400</pubDate>
+			
+			<guid>http://localhost:1313/en/posts/lobstahbots/</guid>
+			<description><![CDATA[I co-led the creation of the official website of my FIRST Robotics Competition team, the Lobstah Bots.]]></description>
+			<content type="html"><![CDATA[<p><img alt="Lobstahbots Website Thumbnail" src="/images/lobstahbots.png"></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Passionfruit Kitchen Website</title>
+			<link>http://localhost:1313/en/posts/passionfruit-kitchen/</link>
+			<pubDate>Thu, 23 Jun 2022 23:48:29 -0400</pubDate>
+			
+			<guid>http://localhost:1313/en/posts/passionfruit-kitchen/</guid>
+			<description><![CDATA[Passionfruit Kitchen is my online food blog, founded in 2021. The website is designed, coded, and maintained by me entirely in plain HTML and CSS.]]></description>
+			<content type="html"><![CDATA[<p><img alt="Passionfruit Kitchen Thumbnail" src="/images/passionfruit.png"></p>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>

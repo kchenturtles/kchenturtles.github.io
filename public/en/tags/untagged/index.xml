@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Untagged on Kendree Chen</title>
+    <link>http://localhost:1313/en/tags/untagged/</link>
+    <description>Recent content in Untagged on Kendree Chen</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 23 Oct 2024 23:48:29 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Poseidon-Bot</title>
+      <link>http://localhost:1313/en/posts/my-first-post/</link>
+      <pubDate>Wed, 23 Oct 2024 23:48:29 -0400</pubDate>
+      <guid>http://localhost:1313/en/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

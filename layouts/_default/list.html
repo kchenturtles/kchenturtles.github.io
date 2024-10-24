@@ -1,0 +1,60 @@
+{{ define "header" }}
+{{ partialCached "header.html" . }}
+{{ end }}
+
+{{ define "main" }}
+	<main class="site-main section-inner thin {{- if ne false .Site.Params.usesAnimation }} animated fadeIn faster{{- end -}}">
+		<h1>My Projects</h1>
+		{{- if .Content }}
+		<div class="content">
+			{{ .Content }}
+		</div>
+		{{- end }}
+
+		{{- if and (ge (len (where .Site.Pages ".Params.pin" true)) 1) (.Site.Params.pinned) (not (in .Page.RelPermalink (or "tags" "categories"))) -}}
+		<h2>{{- .Site.Params.pinned -}}</h2>
+		{{$pin_name := .Site.Params.pinnedSVGname | default "pin" }}
+		<div class="pinned-posts-group">
+			<ul class="pinned-posts-list">
+				{{- range where .Site.Pages ".Params.pin" true }}
+				<li class="pinned-post-item">
+					{{- partial "svg.html" (dict "context" . "name" $pin_name) }}
+					<a href="{{.Permalink}}"><span class="post-title">{{.Title}}</span></a>
+				</li>
+				{{- end }}
+			</ul>
+		</div>
+		{{- end -}}
+		{{- range .Data.Pages.GroupByDate "2006" }}
+		{{ $pages := len (.Pages) }}
+		{{ $pages_pin := len ( where .Pages ".Params.pin" "eq" true) }}
+		{{- if gt $pages $pages_pin -}}
+		<div class="posts-group">
+			<!-- <div class="post-year" id="{{ .Key }}">{{ .Key }}</div> -->
+			<ul class="posts-list">
+				{{- range where .Pages ".Params.pin" "ne" true }}
+				<li class="post-item">
+					<a href="{{.Permalink}}">
+						<span class="post-title" style = "font-size: larger;">{{.Title}}</span>
+						<span class="post-day" style = "font-size:larger;">{{ .Date.Format .Site.Params.dateformShort }}</span>
+					</a>
+                    <div style="display: flex; gap: 0.5rem; margin-top: 0.5rem;">
+                    {{- range .Page.Params.tags }}
+                        <a href="{{ "en/tags/" | relURL }}{{ . | urlize }}"><div class="post-tag" style = "background-color: cornflowerblue; color: white; padding: 0.2rem 1rem 0.2rem 1rem; width: fit-content; border-radius: 0.2rem;">{{ . }}</div></a>
+                    {{- end }}
+                    </div>
+                    <a href="{{.Page.Params.repository}}" target="_blank" style="color:cornflowerblue;">Repository: {{.Page.Params.repository}}</a>
+					<span class="post-description" style = "font-size: medium;">{{ .Page.Params.description }}</span>
+                    <img src="{{.Page.Params.thumbnail}}" alt="{{.Title}}" style="width: 100%; height: auto; margin-top: 1rem; margin-bottom: 2rem;">
+				</li>
+				{{- end }}
+			</ul>
+		</div>
+		{{- end -}}
+		{{- end }}
+	</main>
+{{ end }}
+
+{{ define "footer" }}
+{{ partialCached "footer.html" . }}
+{{ end }}

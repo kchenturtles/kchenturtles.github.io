@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Kendree Chen</title>
+    <link>http://localhost:1313/en/tags/</link>
+    <description>Recent content in Tags on Kendree Chen</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 23 Jul 2024 23:48:29 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI</title>
+      <link>http://localhost:1313/en/tags/ai/</link>
+      <pubDate>Tue, 23 Jul 2024 23:48:29 -0400</pubDate>
+      <guid>http://localhost:1313/en/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Flutter</title>
+      <link>http://localhost:1313/en/tags/flutter/</link>
+      <pubDate>Tue, 23 Jul 2024 23:48:29 -0400</pubDate>
+      <guid>http://localhost:1313/en/tags/flutter/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>http://localhost:1313/en/tags/python/</link>
+      <pubDate>Tue, 23 Jul 2024 23:48:29 -0400</pubDate>
+      <guid>http://localhost:1313/en/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Firestore</title>
+      <link>http://localhost:1313/en/tags/firestore/</link>
+      <pubDate>Tue, 23 Jan 2024 23:48:29 -0400</pubDate>
+      <guid>http://localhost:1313/en/tags/firestore/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Svelte</title>
+      <link>http://localhost:1313/en/tags/svelte/</link>
+      <pubDate>Tue, 23 Jan 2024 23:48:29 -0400</pubDate>
+      <guid>http://localhost:1313/en/tags/svelte/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>UI/UX</title>
+      <link>http://localhost:1313/en/tags/ui/ux/</link>
+      <pubDate>Tue, 23 Jan 2024 23:48:29 -0400</pubDate>
+      <guid>http://localhost:1313/en/tags/ui/ux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>APIs</title>
+      <link>http://localhost:1313/en/tags/apis/</link>
+      <pubDate>Sat, 23 Dec 2023 23:48:29 -0400</pubDate>
+      <guid>http://localhost:1313/en/tags/apis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NextJS</title>
+      <link>http://localhost:1313/en/tags/nextjs/</link>
+      <pubDate>Sat, 23 Dec 2023 23:48:29 -0400</pubDate>
+      <guid>http://localhost:1313/en/tags/nextjs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>React</title>
+      <link>http://localhost:1313/en/tags/react/</link>
+      <pubDate>Sat, 23 Dec 2023 23:48:29 -0400</pubDate>
+      <guid>http://localhost:1313/en/tags/react/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Java</title>
+      <link>http://localhost:1313/en/tags/java/</link>
+      <pubDate>Mon, 23 Oct 2023 23:48:29 -0400</pubDate>
+      <guid>http://localhost:1313/en/tags/java/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HTML</title>
+      <link>http://localhost:1313/en/tags/html/</link>
+      <pubDate>Thu, 23 Jun 2022 23:48:29 -0400</pubDate>
+      <guid>http://localhost:1313/en/tags/html/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

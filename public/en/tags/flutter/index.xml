@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flutter on Kendree Chen</title>
+    <link>http://localhost:1313/en/tags/flutter/</link>
+    <description>Recent content in Flutter on Kendree Chen</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 23 Jul 2024 23:48:29 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/tags/flutter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Poseidon-Bot</title>
+      <link>http://localhost:1313/en/posts/poseidon-bot/</link>
+      <pubDate>Tue, 23 Jul 2024 23:48:29 -0400</pubDate>
+      <guid>http://localhost:1313/en/posts/poseidon-bot/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Poseidon Bot Thumbnail&#34; src=&#34;https://media.canva.com/v2/files/uri:ifs%3A%2F%2FV%2Fw7IpezDBDC_YNsLAeuqcc-AGFUbhF8wJ3yFfFJjyOVg.jpg?csig=AAAAAAAAAAAAAAAAAAAAANcZdhjS6_0cSw70uPaIBH6nENs3HyjTNlgddFMG-mML&amp;exp=1729752600&amp;signer=video-rpc&amp;token=AAIAAVYAL3c3SXBlekRCRENfWU5zTEFldXFjYy1BR0ZVYmhGOHdKM3lGZkZKanlPVmcuanBnAAAAAAGSvUoNwIkd8psvKDnlrYkXUYS4NMeEuVRgJcxymybspp99MPpO&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
