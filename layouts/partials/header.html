@@ -16,9 +16,9 @@
 			{{- with .Site.Params.socialLinks -}}
 			<span class="hdr-social hide-in-mobile">{{- partialCached "social-icons.html" . -}}</span>
 			{{- end -}}
-			<div style="display: flex; justify-content: center; gap: 1rem;">
+			<!-- <div style="display: flex; justify-content: center; gap: 1rem;">
 				{{- partialCached "social-icons.html" . }}
-			</div>
+			</div> -->
 			<!-- {{- if and (not (eq .Site.Params.shareSocial nil)) (.Site.Params.shareSocial) (templates.Exists "partials/social-share.html") -}}{{- partial "social-share.html" . -}}{{- end -}} -->
 			<button id="menu-btn" class="hdr-btn" title="{{i18n "menu"}}">{{- partial "svg.html" (dict "context" . "name" "menuBtn") -}}</button>
 		</div>
