@@ -12,4 +12,4 @@ I'm a student at Boston University Academy, part-time software developer, and co
 
 An interest of mine is using technology to address social and educational needs. Particularly, I am focused on promoting inclusion and diversity in STEM education.  
 
-Check out some of my work [here!](/posts) 
+Check out some of my work [here!](/en/posts) 
