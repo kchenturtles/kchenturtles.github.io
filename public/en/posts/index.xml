@@ -5,8 +5,19 @@
 		<description>Recent content in Posts on Kendree Chen</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en</language>
-		<lastBuildDate>Tue, 23 Jul 2024 23:48:29 -0400</lastBuildDate>
+		<lastBuildDate>Fri, 23 Aug 2024 20:48:29 -0400</lastBuildDate>
 		<atom:link href="http://localhost:1313/en/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Girl Up New England Coalition Official Website</title>
+			<link>http://localhost:1313/en/posts/girl-up/</link>
+			<pubDate>Fri, 23 Aug 2024 20:48:29 -0400</pubDate>
+			
+			<guid>http://localhost:1313/en/posts/girl-up/</guid>
+			<description><![CDATA[I created a new official website for the Girl Up New England Coalition, on which I am an executive board member. Girl Up is a United Nations foundation that seeks to empower young women in making change in the world. I have been a part of Girl Up for four years and currently serve on the STEM committee of the executive board of the New England Coalition of 90+ clubs.]]></description>
+			<content type="html"><![CDATA[<p><img alt="Girl Up Website Thumbnail" src="/images/girlup.png"></p>
+]]></content>
+		</item>
 		
 		<item>
 			<title>Poseidon-Bot</title>
