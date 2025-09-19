@@ -2,14 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/en/tags/ai/</loc>
-    <lastmod>2024-07-23T23:48:29-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/tags/flutter/</loc>
-    <lastmod>2024-07-23T23:48:29-04:00</lastmod>
+    <loc>http://localhost:1313/en/posts/girl-up/</loc>
+    <lastmod>2024-08-23T20:48:29-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/en/</loc>
-    <lastmod>2024-07-23T23:48:29-04:00</lastmod>
+    <lastmod>2024-08-23T20:48:29-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -26,17 +23,14 @@
                 href="http://localhost:1313/en/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/posts/poseidon-bot/</loc>
-    <lastmod>2024-07-23T23:48:29-04:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/en/posts/</loc>
-    <lastmod>2024-07-23T23:48:29-04:00</lastmod>
+    <lastmod>2024-08-23T20:48:29-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/tags/python/</loc>
-    <lastmod>2024-07-23T23:48:29-04:00</lastmod>
+    <loc>http://localhost:1313/en/tags/react/</loc>
+    <lastmod>2024-08-23T20:48:29-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/en/tags/</loc>
-    <lastmod>2024-07-23T23:48:29-04:00</lastmod>
+    <lastmod>2024-08-23T20:48:29-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -53,6 +47,21 @@
                 href="http://localhost:1313/en/tags/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/tags/ui/ux/</loc>
+    <lastmod>2024-08-23T20:48:29-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/ai/</loc>
+    <lastmod>2024-07-23T23:48:29-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/flutter/</loc>
+    <lastmod>2024-07-23T23:48:29-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/posts/poseidon-bot/</loc>
+    <lastmod>2024-07-23T23:48:29-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/python/</loc>
+    <lastmod>2024-07-23T23:48:29-04:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/en/tags/firestore/</loc>
     <lastmod>2024-01-23T23:48:29-04:00</lastmod>
   </url><url>
@@ -62,9 +71,6 @@
     <loc>http://localhost:1313/en/tags/svelte/</loc>
     <lastmod>2024-01-23T23:48:29-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/tags/ui/ux/</loc>
-    <lastmod>2024-01-23T23:48:29-04:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/en/tags/apis/</loc>
     <lastmod>2023-12-23T23:48:29-04:00</lastmod>
   </url><url>
@@ -72,9 +78,6 @@
     <lastmod>2023-12-23T23:48:29-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/en/tags/nextjs/</loc>
-    <lastmod>2023-12-23T23:48:29-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/tags/react/</loc>
     <lastmod>2023-12-23T23:48:29-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/en/posts/thistle-productions/</loc>

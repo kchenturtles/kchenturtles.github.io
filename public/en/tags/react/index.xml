@@ -6,8 +6,15 @@
     <description>Recent content in React on Kendree Chen</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 23 Dec 2023 23:48:29 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 23 Aug 2024 20:48:29 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/en/tags/react/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Girl Up New England Coalition Official Website</title>
+      <link>http://localhost:1313/en/posts/girl-up/</link>
+      <pubDate>Fri, 23 Aug 2024 20:48:29 -0400</pubDate>
+      <guid>http://localhost:1313/en/posts/girl-up/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Girl Up Website Thumbnail&#34; src=&#34;http://localhost:1313/images/girlup.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Greater Boston STEM Program Website</title>
       <link>http://localhost:1313/en/posts/gbstem-website/</link>
