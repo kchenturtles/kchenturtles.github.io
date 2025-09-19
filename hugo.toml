@@ -7,17 +7,17 @@ theme = "hermit-v2"
   [languages.en]
     title = 'Kendree Chen'
     [languages.en.params]
-      homeSubtitle = "I'm a student, software developer, and nonprofit president from Boston, MA"
+      homeSubtitle = "I'm an MIT student and nonprofit president passionate about robotic controls and STEM education."
     weight = 1
   [languages.fr]
     title = 'Kendree Chen'
     [languages.fr.params]
-      homeSubtitle = "I'm a student, software developer, and nonprofit president from Boston, MA"
+      homeSubtitle = "I'm an MIT student and nonprofit president passionate about robotic controls and STEM education."
     weight = 2
   [languages.it]
     title = 'Kendree Chen'
     [languages.it.params]
-      homeSubtitle = "I'm a student, software developer, and nonprofit president from Boston, MA"
+      homeSubtitle = "I'm an MIT student and nonprofit president passionate about robotic controls and STEM education."
     weight = 3
  
 languageCode = "en-us"

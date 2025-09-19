@@ -1,4 +1,5 @@
 {{ define "head" }}
+	{{ partial "head.html" . }}
 	{{ if .Site.Params.bgImg -}}
 	<style>.bg-img {background-image: url('{{.Site.Params.bgImg}}');}</style>
 	{{- else if .Site.Params.images -}}

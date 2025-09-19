@@ -6,8 +6,15 @@
     <description>Recent content in Python on Kendree Chen</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jul 2024 23:48:29 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 18 Sep 2025 00:00:00 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/en/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>KTBYTE Website</title>
+      <link>http://localhost:1313/en/posts/ktbyte/</link>
+      <pubDate>Thu, 18 Sep 2025 00:00:00 -0400</pubDate>
+      <guid>http://localhost:1313/en/posts/ktbyte/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;KTBYTE Website&#34; src=&#34;http://localhost:1313/images/ktbyte1.png&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.ktbyte.com/&#34;&gt;KTBYTE&lt;/a&gt; is an online academy dedicated to teaching computer science to students of all ages. As both a frontend and backend designer and developer, I worked on improving the website’s user interface and experience, implementing responsive layouts, building server-side features, and collaborating with the team to deliver a modern, accessible platform for CS education.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt; Frontend &amp;amp; Backend Designer/Developer&lt;br&gt;&#xA;&lt;strong&gt;Tech Stack:&lt;/strong&gt; HTML, CSS, JavaScript, Python&lt;/p&gt;&#xA;&lt;p&gt;Key contributions:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Designed and implemented new UI components for course pages and dashboards&lt;/li&gt;&#xA;&lt;li&gt;Enhanced site responsiveness and accessibility&lt;/li&gt;&#xA;&lt;li&gt;Built and maintained backend features for course management and user authentication&lt;/li&gt;&#xA;&lt;li&gt;Collaborated with backend and frontend teams to integrate dynamic content and APIs&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>Poseidon-Bot</title>
       <link>http://localhost:1313/en/posts/poseidon-bot/</link>

@@ -5,7 +5,7 @@ draft: false
 toc: false
 images: 
 repository: "https://github.com/lobstahbots/lobstahbots.com"
-description: "I co-led the creation of the official website of my FIRST Robotics Competition team, the Lobstah Bots."
+description: "I co-led the creation of the official website of my FIRST Robotics Competition team, the Lobstah Bots. The website was written in NextJS."
 thumbnail: "/images/lobstahbots.png"
 tags: ["UI/UX", "NextJS"]
 ---

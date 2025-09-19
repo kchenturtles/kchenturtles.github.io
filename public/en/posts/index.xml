@@ -5,8 +5,29 @@
 		<description>Recent content in Posts on Kendree Chen</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en</language>
-		<lastBuildDate>Fri, 23 Aug 2024 20:48:29 -0400</lastBuildDate>
+		<lastBuildDate>Thu, 18 Sep 2025 00:00:00 -0400</lastBuildDate>
 		<atom:link href="http://localhost:1313/en/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>KTBYTE Website</title>
+			<link>http://localhost:1313/en/posts/ktbyte/</link>
+			<pubDate>Thu, 18 Sep 2025 00:00:00 -0400</pubDate>
+			
+			<guid>http://localhost:1313/en/posts/ktbyte/</guid>
+			<description><![CDATA[KTBYTE is an online academy for computer science education. I contributed as both a frontend and backend designer and developer, focusing on user experience, responsive design, and server-side functionality.]]></description>
+			<content type="html"><![CDATA[<p><img alt="KTBYTE Website" src="/images/ktbyte1.png"></p>
+<p><a href="https://www.ktbyte.com/">KTBYTE</a> is an online academy dedicated to teaching computer science to students of all ages. As both a frontend and backend designer and developer, I worked on improving the website’s user interface and experience, implementing responsive layouts, building server-side features, and collaborating with the team to deliver a modern, accessible platform for CS education.</p>
+<p><strong>Role:</strong> Frontend &amp; Backend Designer/Developer<br>
+<strong>Tech Stack:</strong> HTML, CSS, JavaScript, Python</p>
+<p>Key contributions:</p>
+<ul>
+<li>Designed and implemented new UI components for course pages and dashboards</li>
+<li>Enhanced site responsiveness and accessibility</li>
+<li>Built and maintained backend features for course management and user authentication</li>
+<li>Collaborated with backend and frontend teams to integrate dynamic content and APIs</li>
+</ul>
+]]></content>
+		</item>
 		
 		<item>
 			<title>Girl Up New England Coalition Official Website</title>
@@ -14,7 +35,7 @@
 			<pubDate>Fri, 23 Aug 2024 20:48:29 -0400</pubDate>
 			
 			<guid>http://localhost:1313/en/posts/girl-up/</guid>
-			<description><![CDATA[I created a new official website for the Girl Up New England Coalition, on which I am an executive board member. Girl Up is a United Nations foundation that seeks to empower young women in making change in the world. I have been a part of Girl Up for four years and currently serve on the STEM committee of the executive board of the New England Coalition of 90+ clubs.]]></description>
+			<description><![CDATA[I designed and created a new official website for the Girl Up New England Coalition, on which I am an executive board member. Girl Up is a United Nations foundation that seeks to empower young women in making change in the world. I have been a part of Girl Up for four years and currently serve on the STEM committee of the executive board of the New England Coalition of 90+ clubs.]]></description>
 			<content type="html"><![CDATA[<p><img alt="Girl Up Website Thumbnail" src="/images/girlup.png"></p>
 ]]></content>
 		</item>
@@ -25,7 +46,7 @@
 			<pubDate>Tue, 23 Jul 2024 23:48:29 -0400</pubDate>
 			
 			<guid>http://localhost:1313/en/posts/poseidon-bot/</guid>
-			<description><![CDATA[Poseidon-Bot is an AI chatbot that uses retrieval augmented generation (RAG) architecture to allow the model to specialize in documents uploaded by the user. This was a project I worked on as part of a summer internship with Boston University's SAIL Lab during the summer of 2024. I created the backend and RAG architecture and some of the frontend functionality.]]></description>
+			<description><![CDATA[Poseidon-Bot is an AI chatbot that uses retrieval augmented generation (RAG) architecture to allow the model to specialize in documents uploaded by the user. This was a project I worked on as part of a summer internship with Boston University's SAIL Lab during the summer of 2024. I designed and developed the application end-to-end. The frontend was written in Flutter and the backend in Python (FASTApi). It used a PostgreSQL database and Llama LLM.]]></description>
 			<content type="html"><![CDATA[<p><img alt="Poseidon Bot Thumbnail" src="/images/canva.jpg"></p>
 ]]></content>
 		</item>
@@ -58,7 +79,7 @@
 			<pubDate>Sat, 23 Dec 2023 23:48:29 -0400</pubDate>
 			
 			<guid>http://localhost:1313/en/posts/thistle-productions/</guid>
-			<description><![CDATA[The Wild Thistle Productions podcast website is a commissioned website that uses the Spotify API to automatically update content. The website lists all episodes and shows from the podcast in a modular format. I designed and coded the website from scratch.]]></description>
+			<description><![CDATA[The Wild Thistle Productions podcast website is a commissioned  project written in NextJs. It uses the Spotify API to automatically update content. The website lists all episodes and shows from the podcast in a modular format. I designed and coded the website from scratch.]]></description>
 			<content type="html"><![CDATA[<p><img alt="The Wild Thistle Productions Thumbnail" src="/images/thistle-1.png">
 <img alt="The Wild Thistle Productions Thumbnail" src="/images/thistle-2.png"></p>
 ]]></content>
@@ -81,7 +102,7 @@
 			<pubDate>Fri, 23 Jun 2023 23:48:29 -0400</pubDate>
 			
 			<guid>http://localhost:1313/en/posts/lobstahbots/</guid>
-			<description><![CDATA[I co-led the creation of the official website of my FIRST Robotics Competition team, the Lobstah Bots.]]></description>
+			<description><![CDATA[I co-led the creation of the official website of my FIRST Robotics Competition team, the Lobstah Bots. The website was written in NextJS.]]></description>
 			<content type="html"><![CDATA[<p><img alt="Lobstahbots Website Thumbnail" src="/images/lobstahbots.png"></p>
 ]]></content>
 		</item>

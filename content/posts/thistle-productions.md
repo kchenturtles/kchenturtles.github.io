@@ -5,7 +5,7 @@ draft: false
 toc: false
 images: 
 repository: "https://github.com/kchenturtles/the-wild-thistle-productions"
-description: "The Wild Thistle Productions podcast website is a commissioned website that uses the Spotify API to automatically update content. The website lists all episodes and shows from the podcast in a modular format. I designed and coded the website from scratch."
+description: "The Wild Thistle Productions podcast website is a commissioned  project written in NextJs. It uses the Spotify API to automatically update content. The website lists all episodes and shows from the podcast in a modular format. I designed and coded the website from scratch."
 thumbnail: "/images/thistle-1.png"
 tags: ["UI/UX", "APIs", "NextJS"]
 ---
